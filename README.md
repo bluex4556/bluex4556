@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-You can reach me at https://www.linkedin.com/in/ishaan-kolli-32105317a/
+You can reach me at [LinkedIn](https://www.linkedin.com/in/ishaan-kolli-32105317a/)
 <!--
 **bluex4556/bluex4556** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
